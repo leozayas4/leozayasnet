@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Leo's Place</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -55,7 +55,8 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+                                    Leo's Place is a great hangout spot, we will have, raffles, Pick Against the Swami will be back for 2021, with all new cash prizes, we'll have some blogs where i will spew out my opinions and then take remarks on them.
+                                    Stay tuned, in the meantime you can get a jump on the Swami Picks and register early so you can nail down the username you want.... peace
                                 </div>
                             </div>
                         </div>
